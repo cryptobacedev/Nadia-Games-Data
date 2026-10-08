@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ng_0001",
+    "d": "easy",
+    "q": "Capital of Nigeria?",
+    "o": ["Lagos", "Abuja", "Kano", "Ibadan"],
+    "a": 1,
+    "ex": "Abuja became capital 1991"
+  },
+  {
+    "id": "ng_0002",
+    "d": "easy",
+    "q": "How many states in Nigeria?",
+    "o": ["34", "35", "36", "37"],
+    "a": 2,
+    "ex": "36 states + FCT"
+  },
+  {
+    "id": "ng_0003",
+    "d": "level",
+    "q": "Year Nigeria got independence?",
+    "o": ["1959", "1960", "1961", "1963"],
+    "a": 1,
+    "ex": "Oct 1 1960"
+  },
+  {
+    "id": "ng_0004",
+    "d": "pro",
+    "q": "First executive president?",
+    "o": ["Azikiwe", "Shagari", "Buhari", "Babangida"],
+    "a": 1,
+    "ex": "Shehu Shagari 1979"
+  },
+  {
+    "id": "ng_0005",
+    "d": "pro",
+    "q": "Nigeria's currency?",
+    "o": ["Cedi", "Shilling", "Naira", "Rand"],
+    "a": 2,
+    "ex": "Naira = NGN"
+  }
+]
