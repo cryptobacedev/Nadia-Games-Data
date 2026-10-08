@@ -1,42 +1,17 @@
 [
-  {
-    "id": "ng_0001",
-    "d": "easy",
-    "q": "Capital of Nigeria?",
-    "o": ["Lagos", "Abuja", "Kano", "Ibadan"],
-    "a": 1,
-    "ex": "Abuja since 1991"
-  },
-  {
-    "id": "ng_0002",
-    "d": "easy",
-    "q": "Longest river in Nigeria?",
-    "o": ["Benue", "Niger", "Cross", "Osun"],
-    "a": 1,
-    "ex": "River Niger 1400km"
-  },
-  {
-    "id": "ng_0003",
-    "d": "level",
-    "q": "First president of Nigeria?",
-    "o": ["Azikiwe", "Balewa", "Awolowo", "Bello"],
-    "a": 0,
-    "ex": "Azikiwe 1963"
-  },
-  {
-    "id": "ng_0004",
-    "d": "pro",
-    "q": "How many states?",
-    "o": ["36", "37", "30", "40"],
-    "a": 0,
-    "ex": "36 + FCT"
-  },
-  {
-    "id": "ng_0005",
-    "d": "pro",
-    "q": "Currency?",
-    "o": ["Cedi", "Naira", "Shilling", "Rand"],
-    "a": 1,
-    "ex": "Naira NGN"
-  }
+  {"id":"ng_0001","d":"easy","q":"Capital of Nigeria?","o":["Lagos","Abuja","Kano","Ibadan"],"a":1,"ex":"Abuja since 1991"},
+  {"id":"ng_0002","d":"easy","q":"How many states in Nigeria?","o":["36","37","30","40"],"a":0,"ex":"36 states + FCT"},
+  {"id":"ng_0003","d":"easy","q":"Nigeria independence year?","o":["1958","1960","1963","1970"],"a":1,"ex":"Oct 1, 1960"},
+  {"id":"ng_0004","d":"easy","q":"Nigeria's largest city?","o":["Abuja","Lagos","Kano","Port Harcourt"],"a":1,"ex":"Lagos"},
+  {"id":"ng_0005","d":"easy","q":"Nigeria currency?","o":["Cedi","Naira","Dollar","Rand"],"a":1,"ex":"Naira"},
+  {"id":"ng_0006","d":"easy","q":"First capital of Nigeria?","o":["Lagos","Abuja","Calabar","Ibadan"],"a":0,"ex":"Lagos"},
+  {"id":"ng_0007","d":"level","q":"Nigeria's national anthem starts with?","o":["Arise O Compatriots","Nigeria We Hail Thee","Oh God of Creation","Lift High"],"a":0,"ex":"Arise O Compatriots"},
+  {"id":"ng_0008","d":"level","q":"River Niger and Benue meet at?","o":["Lokoja","Abuja","Onitsha","Makurdi"],"a":0,"ex":"Lokoja, Kogi"},
+  {"id":"ng_0009","d":"level","q":"Who is Wole Soyinka?","o":["Musician","Writer","Footballer","Politician"],"a":1,"ex":"Nobel Prize writer"},
+  {"id":"ng_0010","d":"level","q":"Nigeria's tallest mountain?","o":["Chappal Waddi","Obudu","Idanre","Zuma"],"a":0,"ex":"Chappal Waddi 2,419m"},
+  {"id":"ng_0011","d":"pro","q":"Zuma Rock is in which state?","o":["Niger","FCT","Kaduna","Nasarawa"],"a":1,"ex":"FCT Abuja"},
+  {"id":"ng_0012","d":"pro","q":"Nigeria's democracy day?","o":["May 29","June 12","Oct 1","Jan 15"],"a":1,"ex":"June 12"},
+  {"id":"ng_0013","d":"easy","q":"Nollywood is Nigeria's?","o":["Music","Film","Food","Dance"],"a":1,"ex":"Film industry"},
+  {"id":"ng_0014","d":"easy","q":"Jollof rice is popular in?","o":["Nigeria only","West Africa","East Africa","Europe"],"a":1,"ex":"West Africa, Nigeria best"},
+  {"id":"ng_0015","d":"level","q":"How many geopolitical zones?","o":["4","5","6","7"],"a":2,"ex":"6 zones"}
 ]
