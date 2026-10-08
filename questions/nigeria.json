@@ -1,0 +1,42 @@
+[
+  {
+    "id": "ng_0001",
+    "d": "easy",
+    "q": "Capital of Nigeria?",
+    "o": ["Lagos", "Abuja", "Kano", "Ibadan"],
+    "a": 1,
+    "ex": "Abuja since 1991"
+  },
+  {
+    "id": "ng_0002",
+    "d": "easy",
+    "q": "Longest river in Nigeria?",
+    "o": ["Benue", "Niger", "Cross", "Osun"],
+    "a": 1,
+    "ex": "River Niger 1400km"
+  },
+  {
+    "id": "ng_0003",
+    "d": "level",
+    "q": "First president of Nigeria?",
+    "o": ["Azikiwe", "Balewa", "Awolowo", "Bello"],
+    "a": 0,
+    "ex": "Azikiwe 1963"
+  },
+  {
+    "id": "ng_0004",
+    "d": "pro",
+    "q": "How many states?",
+    "o": ["36", "37", "30", "40"],
+    "a": 0,
+    "ex": "36 + FCT"
+  },
+  {
+    "id": "ng_0005",
+    "d": "pro",
+    "q": "Currency?",
+    "o": ["Cedi", "Naira", "Shilling", "Rand"],
+    "a": 1,
+    "ex": "Naira NGN"
+  }
+]
