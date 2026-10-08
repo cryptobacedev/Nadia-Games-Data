@@ -1,0 +1,42 @@
+[
+  {
+    "id": "wd_0001",
+    "d": "easy",
+    "q": "Capital of Japan?",
+    "o": ["Seoul", "Tokyo", "Beijing", "Bangkok"],
+    "a": 1,
+    "ex": "Tokyo"
+  },
+  {
+    "id": "wd_0002",
+    "d": "easy",
+    "q": "Largest ocean?",
+    "o": ["Atlantic", "Indian", "Arctic", "Pacific"],
+    "a": 3,
+    "ex": "Pacific"
+  },
+  {
+    "id": "wd_0003",
+    "d": "level",
+    "q": "How many continents?",
+    "o": ["5", "6", "7", "8"],
+    "a": 2,
+    "ex": "7"
+  },
+  {
+    "id": "wd_0004",
+    "d": "pro",
+    "q": "Tallest mountain?",
+    "o": ["K2", "Everest", "Kilimanjaro", "Fuji"],
+    "a": 1,
+    "ex": "Everest"
+  },
+  {
+    "id": "wd_0005",
+    "d": "pro",
+    "q": "Longest river?",
+    "o": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+    "a": 1,
+    "ex": "Nile"
+  }
+]
