@@ -3,15 +3,86 @@
   "version": "2.1",
   "updated": "2026-05-13",
   "total": 400,
-  "cdn_base": "https://cdn.jsdelivr.net/gh/cryptobacodev/nadia-games-data@main/questions/",
+  "cdn_base": "https://cdn.jsdelivr.net/gh/cryptobacedev/nadia-games-data@main/questions/",
+  "repository": "https://github.com/cryptobacedev/nadia-games-data",
   "categories": [
-    {"id":"nigeria","file":"nigeria.json","name":"Nigeria","icon":"🇳🇬","count":50},
-    {"id":"flags","file":"flags.json","name":"Flags","icon":"🚩","count":50},
-    {"id":"world","file":"world.json","name":"World","icon":"🌍","count":50},
-    {"id":"sports","file":"sports.json","name":"Sports","icon":"⚽","count":50},
-    {"id":"entertainment","file":"entertainment.json","name":"Entertainment","icon":"🎬","count":50},
-    {"id":"kids","file":"kids.json","name":"Kids","icon":"🧒","count":50},
-    {"id":"riddles","file":"riddles.json","name":"Riddles","icon":"🧩","count":50},
-    {"id":"facts","file":"facts.json","name":"Facts","icon":"📚","count":50}
-  ]
+    {
+      "id": "nigeria",
+      "file": "nigeria.json",
+      "path": "questions/nigeria.json",
+      "name": "Nigeria",
+      "icon": "🇳🇬",
+      "count": 50,
+      "cdn": "https://cdn.jsdelivr.net/gh/cryptobacedev/nadia-games-data@main/questions/nigeria.json"
+    },
+    {
+      "id": "flags",
+      "file": "flags.json",
+      "path": "questions/flags.json",
+      "name": "Flags",
+      "icon": "🚩",
+      "count": 50,
+      "cdn": "https://cdn.jsdelivr.net/gh/cryptobacedev/nadia-games-data@main/questions/flags.json"
+    },
+    {
+      "id": "world",
+      "file": "world.json",
+      "path": "questions/world.json",
+      "name": "World",
+      "icon": "🌍",
+      "count": 50,
+      "cdn": "https://cdn.jsdelivr.net/gh/cryptobacedev/nadia-games-data@main/questions/world.json"
+    },
+    {
+      "id": "sports",
+      "file": "sports.json",
+      "path": "questions/sports.json",
+      "name": "Sports",
+      "icon": "⚽",
+      "count": 50,
+      "cdn": "https://cdn.jsdelivr.net/gh/cryptobacedev/nadia-games-data@main/questions/sports.json"
+    },
+    {
+      "id": "entertainment",
+      "file": "entertainment.json",
+      "path": "questions/entertainment.json",
+      "name": "Entertainment",
+      "icon": "🎬",
+      "count": 50,
+      "cdn": "https://cdn.jsdelivr.net/gh/cryptobacedev/nadia-games-data@main/questions/entertainment.json"
+    },
+    {
+      "id": "kids",
+      "file": "kids.json",
+      "path": "questions/kids.json",
+      "name": "Kids",
+      "icon": "🧒",
+      "count": 50,
+      "cdn": "https://cdn.jsdelivr.net/gh/cryptobacedev/nadia-games-data@main/questions/kids.json"
+    },
+    {
+      "id": "riddles",
+      "file": "riddles.json",
+      "path": "questions/riddles.json",
+      "name": "Riddles",
+      "icon": "🧩",
+      "count": 50,
+      "cdn": "https://cdn.jsdelivr.net/gh/cryptobacedev/nadia-games-data@main/questions/riddles.json"
+    },
+    {
+      "id": "facts",
+      "file": "facts.json",
+      "path": "questions/facts.json",
+      "name": "Facts",
+      "icon": "📚",
+      "count": 50,
+      "cdn": "https://cdn.jsdelivr.net/gh/cryptobacedev/nadia-games-data@main/questions/facts.json"
+    }
+  ],
+  "stats": {
+    "total_questions": 400,
+    "categories_count": 8,
+    "last_updated": "2026-05-13T00:00:00Z",
+    "owner": "cryptobacedev"
+  }
 }
