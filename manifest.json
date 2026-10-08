@@ -1,0 +1,17 @@
+{
+  "name": "Nadia Games Data",
+  "version": "2.1",
+  "updated": "2026-05-13",
+  "total": 400,
+  "cdn_base": "https://cdn.jsdelivr.net/gh/cryptobacodev/nadia-games-data@main/questions/",
+  "categories": [
+    {"id":"nigeria","file":"nigeria.json","name":"Nigeria","icon":"🇳🇬","count":50},
+    {"id":"flags","file":"flags.json","name":"Flags","icon":"🚩","count":50},
+    {"id":"world","file":"world.json","name":"World","icon":"🌍","count":50},
+    {"id":"sports","file":"sports.json","name":"Sports","icon":"⚽","count":50},
+    {"id":"entertainment","file":"entertainment.json","name":"Entertainment","icon":"🎬","count":50},
+    {"id":"kids","file":"kids.json","name":"Kids","icon":"🧒","count":50},
+    {"id":"riddles","file":"riddles.json","name":"Riddles","icon":"🧩","count":50},
+    {"id":"facts","file":"facts.json","name":"Facts","icon":"📚","count":50}
+  ]
+}
